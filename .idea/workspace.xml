@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8164d779-95ac-4efd-8ae3-a6cfb3406c23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SoNguyenTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hien_thi_cac_so_nho_hon_100.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Thiet_ke_menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thiet_ke_menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hien_thi_20_so_nguyen_to.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hien_thi_20_so_nguyen_to.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hien_thi_cac_loai_hinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hien_thi_cac_loai_hinh.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +43,17 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/untitled1&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Thiet_ke_menu">
+  <component name="RunManager" selected="Application.hien_thi_cac_so_nho_hon_100">
     <configuration name="Lai_suat_ngan_hang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lai_suat_ngan_hang" />
       <module name="untitled1" />
@@ -55,8 +61,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thiet_ke_menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thiet_ke_menu" />
+    <configuration name="SoNguyenTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SoNguyenTo" />
+      <module name="untitled1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="So_nguyen_to" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="So_nguyen_to" />
       <module name="untitled1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,15 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hien_thi_cac_loai_hinh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hien_thi_cac_loai_hinh" />
-      <module name="untitled1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="uoc_chung_lon_nhat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uoc_chung_lon_nhat" />
+    <configuration name="hien_thi_cac_so_nho_hon_100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hien_thi_cac_so_nho_hon_100" />
       <module name="untitled1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,10 +91,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Thiet_ke_menu" />
-        <item itemvalue="Application.hien_thi_cac_loai_hinh" />
-        <item itemvalue="Application.uoc_chung_lon_nhat" />
+        <item itemvalue="Application.hien_thi_cac_so_nho_hon_100" />
+        <item itemvalue="Application.SoNguyenTo" />
         <item itemvalue="Application.hien_thi_20_so_nguyen_to" />
+        <item itemvalue="Application.So_nguyen_to" />
         <item itemvalue="Application.Lai_suat_ngan_hang" />
       </list>
     </recent_temporary>
@@ -106,11 +112,25 @@
       <workItem from="1676301007767" duration="1298000" />
       <workItem from="1676303156242" duration="325000" />
       <workItem from="1676336764861" duration="25905000" />
-      <workItem from="1676431412432" duration="759000" />
+      <workItem from="1676431412432" duration="2675000" />
+      <workItem from="1676434407115" duration="482000" />
+      <workItem from="1676442398742" duration="2048000" />
+      <workItem from="1676444493196" duration="5073000" />
+      <workItem from="1676452504955" duration="2613000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.nio.file.NoSuchFileException" package="java.nio.file" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
