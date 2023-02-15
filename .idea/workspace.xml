@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8164d779-95ac-4efd-8ae3-a6cfb3406c23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lai_suat_ngan_hang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/So_nguyen_to.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thiet_ke_menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hien_thi_20_so_nguyen_to.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hien_thi_cac_loai_hinh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uoc_chung_lon_nhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thiet_ke_menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thiet_ke_menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hien_thi_20_so_nguyen_to.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hien_thi_20_so_nguyen_to.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hien_thi_cac_loai_hinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hien_thi_cac_loai_hinh.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.uoc_chung_lon_nhat">
+}</component>
+  <component name="RunManager" selected="Application.Thiet_ke_menu">
     <configuration name="Lai_suat_ngan_hang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lai_suat_ngan_hang" />
       <module name="untitled1" />
@@ -64,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="So_nguyen_to" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="So_nguyen_to" />
+    <configuration name="Thiet_ke_menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thiet_ke_menu" />
       <module name="untitled1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Thiet_ke_menu" />
+        <item itemvalue="Application.hien_thi_cac_loai_hinh" />
         <item itemvalue="Application.uoc_chung_lon_nhat" />
         <item itemvalue="Application.hien_thi_20_so_nguyen_to" />
-        <item itemvalue="Application.hien_thi_cac_loai_hinh" />
         <item itemvalue="Application.Lai_suat_ngan_hang" />
-        <item itemvalue="Application.So_nguyen_to" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +105,8 @@
       <workItem from="1676274200531" duration="1424000" />
       <workItem from="1676301007767" duration="1298000" />
       <workItem from="1676303156242" duration="325000" />
-      <workItem from="1676336764861" duration="21643000" />
+      <workItem from="1676336764861" duration="25905000" />
+      <workItem from="1676431412432" duration="759000" />
     </task>
     <servers />
   </component>
