@@ -1,3 +1,5 @@
+package HDT_Tuan2;
+
 import java.util.Scanner;
 
 public class hien_thi_cac_so_nho_hon_100 {

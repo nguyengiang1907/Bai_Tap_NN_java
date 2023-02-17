@@ -1,3 +1,5 @@
+package HDT_Tuan2;
+
 import java.util.Scanner;
 
 public class Lai_suat_ngan_hang {

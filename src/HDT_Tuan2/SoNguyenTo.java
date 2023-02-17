@@ -1,3 +1,5 @@
+package HDT_Tuan2;
+
 import java.io.FileOutputStream;
 import java.util.Scanner;
 

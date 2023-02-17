@@ -1,3 +1,5 @@
+package HDT_Tuan2;
+
 import java.util.Scanner;
 
 public class So_nguyen_to {
