@@ -1,32 +1,48 @@
 package HDT_Tuan4;
 
+import java.nio.channels.SeekableByteChannel;
 import java.util.Scanner;
 
 public class Do_C_Sang_Do_F_1 {
     public static void main(String[] args) {
-
-
-        Do_C_Sang_Do_F_2 chuyen = new Do_C_Sang_Do_F_2(25,30);
-
-        System.out.println("Chuyên từ đọ f sang độ c là : " + chuyen.Chuyentudofsangdoc());
-        System.out.println("Chuyển từ độ c sang độ f là : " + chuyen.Chuyentudoccsangdof());
-
-
-
-
-
-    }
-
-    public static class Do_C_Sang_Do_F_2 {
-        double  celsius ;
+        Scanner sc = new Scanner(System.in);
+        double celsius;
         double fahrenheit;
+        int choice;
 
-        public Do_C_Sang_Do_F_2 (double celsius , double fahrenheit ) {
-            this.celsius=celsius;
 
-            this.fahrenheit=celsius;
-        }
-        public double Chuyentudofsangdoc (){ celsius = (5.0 / 9) * (fahrenheit - 32 ); return celsius;}
-        public double Chuyentudoccsangdof (){ fahrenheit = (9.0 / 5) * (celsius + 32) ; return fahrenheit;}
+
+        do {
+            System.out.println("Menu");
+            System.out.println("1.Fahrenheit to Celsius ");
+            System.out.println("2.Celsius to Fahrenheit ");
+            System.out.println("0.Exit");
+            System.out.println("Nhập ");
+            choice= sc.nextInt();
+
+
+            switch (choice){
+                case 1 : {
+                    System.out.println("Enter fahrenheit : ");
+                    fahrenheit = sc.nextDouble();
+                    System.out.println(Chuyentudofsangdoc(fahrenheit));
+                    break;
+                }
+                case 2:{
+                    System.out.println("Enter celsius : ");
+                    celsius = sc.nextDouble();
+                    System.out.println(Chuyentudoccsangdof(celsius));
+                }
+                case 0:
+                    System.exit(0);
+            }
+
+        }while (choice != 0);
+
     }
-}
+    public static double Chuyentudoccsangdof (double fahrenheit ){  double celsius = (5.0 / 9) * (fahrenheit - 32 ); return celsius;}
+    public static double Chuyentudofsangdoc (double celsius ){ double fahrenheit = (9.0 / 5) * (celsius + 32) ; return fahrenheit;}
+
+
+    }
+
