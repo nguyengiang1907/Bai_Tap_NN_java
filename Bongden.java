@@ -70,10 +70,5 @@ class CongTac {
             electricLamp.turnOff();
             ++i;
         }
-
-
-
-
-
     }
 }
